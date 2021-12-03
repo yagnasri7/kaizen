@@ -121,7 +121,6 @@ MANIFEST.MF  text
  
 # Binary file types
 
-*.pdf Binary
 *.ps binary
 *.eps binary
 *.docx binary diff=astextplain
